@@ -22,8 +22,8 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v2
         with:
-          context: ./server
-          file: ./server/Dockerfile
+          context:
+          file: Dockerfile
           push: true
           tags: saiabhiramjaini/koinx-server:latest
       
