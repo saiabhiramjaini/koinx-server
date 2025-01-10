@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controllers/cryptodata.controller.ts","./src/db/connect.ts","./src/models/cryptodata.model.ts","./src/routes/cryptodata.routes.ts","./src/utils/cronjob.ts","./src/utils/seeddata.ts","./src/utils/types.ts"],"version":"5.7.3"}
